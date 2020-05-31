@@ -1,3 +1,3 @@
-# BaiduCloudPanLinkCatcher
-### 自动抓取百度云资源链接
->> usage: php init.php
+# JavBus-MagnetLink-Catcher
+### 批量获取番号信息及磁力链接
+>> 食用方法: php init.php
